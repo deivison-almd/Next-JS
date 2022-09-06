@@ -1,0 +1,36 @@
+.buttonCad button {
+    padding: 20px;
+    margin: 50px;
+    font-weight: bold;
+  }
+
+.bodyCad table {
+  background-color: var(--gray-900);
+  color: gray;
+  font-size: 17px;
+  text-align: center;
+
+
+  .boxBody {
+    background-color: var(--gray-900);
+  }
+
+  th {
+    color: gray;
+    background-color: var(--gray-900);
+    text-align: center;
+
+  }
+  div {
+    color: gray;
+    background-color: var(--gray-900);
+  }
+  ul {
+    color: gray;
+    background-color: var(--gray-900);
+  }
+}
+
+.tableBody .ant-table-wrapper {
+  background-color: var(--gray-900);
+}
